@@ -1,0 +1,12 @@
+\beamer@sectionintoc {1}{Problem Statement}{3}{0}{1}
+\beamer@sectionintoc {2}{Figure 1}{4}{0}{2}
+\beamer@sectionintoc {3}{Figure 2}{5}{0}{3}
+\beamer@sectionintoc {4}{Figure 3}{6}{0}{4}
+\beamer@sectionintoc {5}{Figure 4}{7}{0}{5}
+\beamer@sectionintoc {6}{Figure 5}{8}{0}{6}
+\beamer@sectionintoc {7}{Steps to solve}{9}{0}{7}
+\beamer@sectionintoc {8}{Solution}{10}{0}{8}
+\beamer@sectionintoc {9}{Solution ...}{11}{0}{9}
+\beamer@sectionintoc {10}{Solution ...}{12}{0}{10}
+\beamer@sectionintoc {11}{Conclusion}{12}{0}{11}
+\beamer@sectionintoc {12}{Code}{14}{0}{12}
